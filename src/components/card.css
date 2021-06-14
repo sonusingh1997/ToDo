@@ -1,0 +1,53 @@
+.card{
+    min-height: 200px;
+    width: 20%;
+    padding:5px;
+    background-color: aquamarine;
+    margin-left: 5px;
+    display: inline-block;
+}
+.card-header{
+    padding: 3px;
+    background-color: chocolate;
+    color: #fff;
+    font-weight: 700;
+    padding: 12px;
+}
+.card-body {
+    min-height: 80px;
+    padding: 13px;
+    background-color: beige;
+}
+.card-footer {
+    padding: 5px;
+    background-color: #0f4063;
+}
+.btn{
+    padding: 11px;
+    border-style: 2px solid #fff;
+}
+.form-card{
+    width: 35%;
+    padding: 25px;
+    background-color: rgb(236, 236, 236);
+    margin: auto;
+}
+
+/* .form-group input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+} */
+/* .form-group label{
+    display: block;
+} */
+
+.form-group button{
+    padding: 13px;
+}
+.form-group{
+    margin-bottom: 10px;
+}
+.container{
+    border: 1px solid black;
+}
